@@ -1,0 +1,3 @@
+This is a small and simple js script which will help you to create vkontakte-like notifications with slide effect. For simpleness it uses jquery and classic js closure realisation.
+
+The simple usage example is in skeleton.html.
